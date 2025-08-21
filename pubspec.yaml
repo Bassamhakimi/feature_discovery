@@ -15,12 +15,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  provider: ^6.0.5
-  shared_preferences: ^2.0.15
+  provider: 6.1.5+1
+  shared_preferences: ^2.5.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  pedantic: ^1.11.0
+  pedantic: ^1.11.1
 
